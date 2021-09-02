@@ -3,5 +3,6 @@ Song:[
 DUKO,
 KHEA,
 RUSHER,
-L-Gante
+L-Gante,
+Saramay
 ]
